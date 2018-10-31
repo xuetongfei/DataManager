@@ -23,6 +23,7 @@
 
 - (void)log {
     NSLog(@"%@",NSStringFromClass(self.class));
+    NSLog(@"DataManager");
 }
 
 @end
